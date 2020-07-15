@@ -1,1 +1,1 @@
-# Iterative-feature-transformation-for-style-transfer
+# Iterative feature transformation for style transfer
