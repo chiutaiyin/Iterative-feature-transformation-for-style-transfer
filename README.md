@@ -1,5 +1,5 @@
 # Iterative Feature Transformation for Fast and Versatile Universal Style Transfer
-Code for our paper "[Iterative Feature Transformation for Fast and Versatile Universal Style Transfer](https://github.com/chiutaiyin/Iterative-feature-transformation-for-style-transfer/blob/master/paper.pdf)" ([Supplementary Material](https://github.com/chiutaiyin/Iterative-feature-transformation-for-style-transfer/blob/master/supplementary%20material.pdf)) 
+Code for our paper "[Iterative Feature Transformation for Fast and Versatile Universal Style Transfer](https://github.com/chiutaiyin/Iterative-feature-transformation-for-style-transfer/blob/master/paper.pdf)" ([Supplementary Material](https://github.com/chiutaiyin/Iterative-feature-transformation-for-style-transfer/blob/master/supplementary%20material.pdf)) in ECCV 2020.
 
 ## Requirements ##
 - tensorflow v2.2.0
